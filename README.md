@@ -11,4 +11,4 @@ Este proyecto muestra una tabla de operadores de comparación y lógicos usando 
 - Markdown
 
 ## Autor
-Elmer Andrade
+Elmer Andrade Muñoz
